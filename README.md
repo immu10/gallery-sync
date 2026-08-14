@@ -24,6 +24,14 @@ Google Photos' web grid) and ask the phone to back up exactly those.
 The goal is a phone-storage-freeing backup tool that never depends on
 anything but the two devices being on the same network.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Sources panel](screenshots/image1.png) Sources panel — folders, drives, and paired devices, all as scan sources | ![Sort/group options](screenshots/image2.png) Sort/group options |
+| ![Settings](screenshots/image3.png) Desktop settings — cache location, per-device management | ![Android folders](screenshots/image4.png) Android gallery — folder view |
+| ![Android connected devices](screenshots/image5.png) Android — connected devices / pairing | ![Android network settings](screenshots/image6.png) Android — indexing & cache settings |
+
 ## Tags
 
 `Kotlin` · `Jetpack Compose` · `Rust` · `Tauri` · `React` · `TypeScript` · `WebSocket` · `TLS` · `SQLite`
