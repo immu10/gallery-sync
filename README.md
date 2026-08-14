@@ -1,6 +1,6 @@
 its private till i publish to the appstore this repo is just so my website picks it up
 
-# Gallery
+# Gallery Sync
 
 ## Overview
 
